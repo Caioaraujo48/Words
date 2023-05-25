@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Asuna Yuuki</item>
+        <item>Akane Tsunemori</item>
+        <item>Bowsette</item>
+        <item>Boa Hancock</item>
+        <item>C.C.</item>
+        <item>Chitoge Kirisaki</item>
+        <item>D.Va</item>
+        <item>Diane</item>
+        <item>Erza Scarlet</item>
+        <item>Emilia</item>
+        <item>Fujiko Mine</item>
+        <item>Fubuki</item>
+        <item>Hinata Hyuga</item>
+        <item>Gwendolyn</item>
+        <item>Homura Akemi</item>
+        <item>Haruhi Suzumiya</item>
+        <item>Inori Yuzuriha</item>
+        <item>Ikaros</item>
+        <item>Jibril</item>
+        <item>Juvia Lockser</item>
+        <item>Kallen Stadtfeld</item>
+        <item>Kurisu Makise</item>
+        <item>Lucy Heartfilia</item>
+        <item>Lala Satalin Deviluke</item>
+        <item>Mikasa Ackerman</item>
+        <item>Megumin</item>
+        <item>Nami</item>
+        <item>Nico Robin</item>
+        <item>Ochako Uraraka</item>
+        <item>Onodera Kosaki</item>
+        <item>Princess Peach</item>
+        <item>Priestess</item>
+        <item>Queen Medb</item>
+        <item>Quetzalcoatl</item>
+        <item>Rem</item>
+        <item>Ryuko Matoi</item>
+        <item>Saber</item>
+        <item>Sakura Kinomoto</item>
+        <item>Tohsaka Rin</item>
+        <item>Taiga Aisaka</item>
+        <item>Urara Shiraishi</item>
+        <item>Utaha Kasumigaoka</item>
+        <item>Violet Evergarden</item>
+        <item>Victorique de Blois</item>
+        <item>Winry Rockbell</item>
+        <item>Wiz</item>
+        <item>X-23</item>
+        <item>Xianghua</item>
+        <item>Yoko Littner</item>
+        <item>Yuuki Konno</item>
+        <item>Zero Two</item>
+        <item>Zelda</item>
+    </string-array>
+</resources>
