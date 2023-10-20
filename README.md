@@ -14,4 +14,4 @@ Desenvolvido usando Kotlin no Android Studio.
   <img src="img/a.png" height="356px">
 </div>
 <h2>Criador</h2>
-Feito por <a href="https://github.com/Caioaraujo48">Mim, Caio</a>
+Feito por <a href="https://github.com/Caioaraujo48">Mim</a>, <a href="https://github.com/Caioaraujo48"> Caio</a>
